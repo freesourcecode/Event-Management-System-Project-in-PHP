@@ -20,7 +20,7 @@ Also, the event management system project in PHP's GitHub admin or staff will fi
 
 ## Event Management System Project in PHP and MySQL: Features
 
-These are the following features of the system
+These are the following features of the system.
 
 ### Admin Side:
 
