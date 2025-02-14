@@ -127,4 +127,4 @@ Open a browser and go to the URL "http://localhost/event/".
 ![image](https://github.com/user-attachments/assets/1a502b84-b9e1-4972-a3cf-d607c80f2c2b)
 
 
-### 📌 Here's the full documentation for the [[Event Management System Project in PHP and MySQL](https://itsourcecode.com/free-projects/php-project/event-management-system-project-in-php-and-mysql-with-source-code/)]
+### 📌 Here's the full documentation for the [Event Management System Project in PHP and MySQL](https://itsourcecode.com/free-projects/php-project/event-management-system-project-in-php-and-mysql-with-source-code/)
