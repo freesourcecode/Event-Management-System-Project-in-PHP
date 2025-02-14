@@ -79,7 +79,7 @@ This page is where the venues of the event planning company are displayed.
 
 This is the page that displays the content provided by the event planning company.
 
-
+> [!NOTE]
 > To run this online event management system project in php free download make sure that you have Sublime Text and XAMPP installed in your PC(for Windows) to run this project.
 
 ## How to Run the Event Management System Project in PHP and MySQL?
